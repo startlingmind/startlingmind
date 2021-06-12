@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ... Flutter
 - 🌱 I’m currently learning ... ReactJs
 - 👯 I’m looking to collaborate on ... MERN Stack 
-- 🤔 I’m looking for help with ... 
+/*- 🤔 I’m looking for help with ... */
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/ayushbhardwaj/) , [Email Me!](Email: mailto:ab.ayush9@gmail.com)
 - 😄 Pronouns: ... He/Him
